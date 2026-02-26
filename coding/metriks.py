@@ -7,8 +7,7 @@ np.set_printoptions(precision=6, suppress=True)
 
 
 # ---------- имя обработанного изображения ----------
-result_filename = "result_11_7.png"   # ← менять вручную
-
+result_filename = "result_33_17.png"   # ← менять вручную
 
 # ---------- загрузка изображений ----------
 original = cv2.imread("lena.png", cv2.IMREAD_GRAYSCALE)
